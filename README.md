@@ -71,4 +71,4 @@ survival analysis using publicly available data.
 
 ## Author
 Simran Randhawa | MS Student, Johns Hopkins Bloomberg School of Public Health  
-[LinkedIn](your-linkedin-url)
+[LinkedIn]www.linkedin.com/in/simranrandhawa20
